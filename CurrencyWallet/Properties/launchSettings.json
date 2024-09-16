@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CurrencyWallet": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
