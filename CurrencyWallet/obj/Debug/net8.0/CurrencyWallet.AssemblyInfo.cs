@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyWallet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb6ab3ae0acaff2c3b739b41178b09c76f0242a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyWallet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyWallet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
